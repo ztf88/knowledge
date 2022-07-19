@@ -3,6 +3,5 @@
 
 ```mermaid
 flowchart TD
-
 knowledge --> metaknowledge
 ```
