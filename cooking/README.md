@@ -13,7 +13,7 @@
 
 ## 汤
 
-- [洛阳豆腐汤](../luoyangdoufutang.md)
+- [洛阳豆腐汤](luoyangdoufutang.md)
 
 
 
